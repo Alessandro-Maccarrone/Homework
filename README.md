@@ -6,7 +6,7 @@ Description: Gestire la  pandemia da SARS-CoV-2 è stata, sin dalla sua comparsa
 
 Installation:clonare il progetto,copiare in una cartella e aviare il file .html.
 
-Todo: Prenotazione, referti online, assistenza sanitaria,prenotazione ricovero,prenotazione vaccini,
+Todo: Prenotazione, referti online, assistenza sanitaria,prenotazione ricovero,prenotazione vaccini.
 
 Roadmap: A vaccinazione completata, potrebbero essere utili controlli seriati sull'inter popolazione del titolo anticorpale, ovvero controllare e misurare nel tempo l'immunità sviluppata e prevedere eventuale necessità di richiami vaccinali.
 In considerazione del fenomeno dello spill-over, che ha caratterizzato la selezione di questo virus, potrebbe essere utile studiare altri microrganismi dotati di questa spiccata capacità adattativa.
